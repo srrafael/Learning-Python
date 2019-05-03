@@ -1,2 +1,2 @@
 # Learning-Python
-Repositório de teste do curso python
+Repositório de teste do curso python3
